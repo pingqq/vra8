@@ -1,6 +1,6 @@
 #!/bin/bash
 # vRealize Automation 8.x vSphere Virtual Machine Static IP address template configuration
-# Support Cent0S 7.8
+# Support Cent0S 7.x、8.x
 # Support vRealize Automation 8.0、8.0.1、8.1
 # Author: Xu
 # Version：1.0
